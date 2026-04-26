@@ -155,4 +155,4 @@ Karolinska Institutet / KTH Royal Institute of Technology / Stockholm University
 * [LinkedIn](https://www.linkedin.com/in/isaac-daviet)
 
 ## Acknowledgements
-[The Greiff Research Group](https://greifflab.org/), in particular Rahmad Akbar, Robert Frank & Victor Greiff for supervision and resources
+Thank you to all members of the [Greiff Research Group](https://greifflab.org/), in particular Rahmad Akbar, Robert Frank & Victor Greiff for supervision and resources
